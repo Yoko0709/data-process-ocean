@@ -46,9 +46,3 @@ Each year, numerous maritime accidents are caused by weather-related sea conditi
 - 🗺️ **Hazard map** created to visualize risk likelihood based on past conditions
 - 📊 **2024 accident case** successfully analyzed by matching to historical clusters
 
----
-
-## ✍️ Author
-
-Ren Zhiyan  
-*Master Student, The University of Tokyo*
